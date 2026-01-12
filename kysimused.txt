@@ -1,0 +1,22 @@
+Kirjuta oma nimi:
+vasta küsimustele ja tee commit iga küsimustele eraldi
+
+Küsimus 1. Excel funktsioonid:
+Lahtris B3 on antud isikukood. Mis valemiga saab leida isiku sünniaasta?....
+
+Küsimus 2. Excel funktsioonid:
+Lahtris B3 on antud isikukood. Mis valemiga saab leida isiku sugu?....
+
+Küsimus 3. Excel funktsioonid:
+Lahtris A4 on antud eesnimi ja B4 on antud perenimi.
+Mis valemiga saab isiku nimi kujul "E. P."?
+
+
+Küsimus 4. Excel funktsioonid:
+Lahtris A4 on antud eesnimi ja B4 on antud perenimi.
+Mis valemiga saab isiku nimi kujul "Eesnimi. P."?
+
+Küsimus 5. Excel funktsioonid:
+Lahtris B3 on antud isikukood. Mis valemiga saab leida isikukoodi pikkus?
+
+
