@@ -3,6 +3,7 @@ vasta küsimustele ja tee commit iga küsimustele eraldi
 
 Küsimus 1. Excel funktsioonid:
 Lahtris B3 on antud isikukood. Mis valemiga saab leida isiku sünniaasta?....
+=LEFT(B3)
 
 
 Küsimus 2. Excel funktsioonid:
