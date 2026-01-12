@@ -1,4 +1,4 @@
-Kirjuta oma nimi:
+Kirjuta oma nimi:Kristjan
 vasta küsimustele ja tee commit iga küsimustele eraldi
 
 Küsimus 1. Excel funktsioonid:
