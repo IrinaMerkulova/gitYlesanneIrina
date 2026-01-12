@@ -8,10 +8,12 @@ Lahtris B3 on antud isikukood. Mis valemiga saab leida isiku sünniaasta?....
 
 Küsimus 2. Excel funktsioonid:
 Lahtris B3 on antud isikukood. Mis valemiga saab leida isiku sugu?....
+=LEFT(B3)
 
 Küsimus 3. Excel funktsioonid:
 Lahtris A4 on antud eesnimi ja B4 on antud perenimi.
 Mis valemiga saab isiku nimi kujul "E. P."?
+
 
 
 Küsimus 4. Excel funktsioonid:
